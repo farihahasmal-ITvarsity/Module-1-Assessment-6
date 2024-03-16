@@ -20,7 +20,7 @@
 }
 
 body {
-    background-image: url(images/background2.jfif);
+    background-image: url(images/background2.2.jfif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -67,6 +67,9 @@ h4{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    background-color:  rgba(246, 250, 253, 0.862);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .ProductDetails table{
